@@ -17,5 +17,5 @@ Bootstrap 5: Reszponzív dizájn megvalósítása.
 JavaScript: Alapvető interakciók kezelésére (pl. Bootstrap komponensek működéséhez).
 
 ## Szerzők
-Név: Gazi Tamás Dávid, majd zéti odaírja
+Név: Gazi Tamás Dávid, Szolomájer Zétény Attila<br>
 Email: nincs
