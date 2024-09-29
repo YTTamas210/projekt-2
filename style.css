@@ -64,7 +64,10 @@ width: 70%;
 .borderek{
   margin-bottom: 5%;
 }
-
+label{
+  position: relative;
+  left: -4%;
+}
 
 
 
